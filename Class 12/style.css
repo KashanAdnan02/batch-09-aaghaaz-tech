@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+.box {
+    background-color: blue;
+    width: 700px;
+    height: 400px;
+    /* max-width: 600px; */
+    border: 10px solid red;
+    margin: 0;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+.box p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}

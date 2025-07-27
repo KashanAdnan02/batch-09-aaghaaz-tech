@@ -1,0 +1,50 @@
+img {
+    width: 25px;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    border: 1px solid black;
+
+}
+
+.bg-color {
+    width: 100%;
+    background-color: blue;
+    height: 100px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.profile {
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    margin-left: 150px;
+    border: 5px solid blue;
+}
+
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 135px;
+}
+
+.logos {
+    margin-left: 145px;
+}
+
+button {
+    margin-left: 155px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
